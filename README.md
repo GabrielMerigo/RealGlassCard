@@ -3,10 +3,18 @@
 ![teste](assets/captured.gif)
 
 ### :bulb:	Sobre o projeto
-<p>Projeto feito na segunda Edição da Next Level Week, idealizada pela Rocketseat que consiste na criação de uma plataforma de estudos online, onde o usuários terá as opçoes de "Assistir" as aulas de professores cadastrados ou se "Inscrever" para poder dar as aulas.</p>
+<p>Aqui eu densenvolvi um pequeno projeto para brincar com Javascript Tilt.js. Usando Também HTML, CSS e JavaScript fazendo o efeito de "vidro" nos cards.</p>
 
 ### :heavy_check_mark: Principais tecnologias utilizadas
 
 * HTML5, CSS3 e JavaScript e Tilt.js
 
 
+
+### :grey_question: Como usar o Tilt.js?
+
+Adicione o Cdn do Tilt.js em seu arquivo index.html.
+
+```
+<script type="text/javascript" src="vanilla-tilt.js"></script>
+```
